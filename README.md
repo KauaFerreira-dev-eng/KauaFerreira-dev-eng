@@ -42,7 +42,7 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento de software, b
 
 ---
 
-### Tecnologias e Ferramentas
+###  Ferramentas e Tecnologia 
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento de software, b
 
 ---
 
-### Destaques
+### DestaqueDestaques
 
 - **Programação Orientada a Objetos (POO)**
 - **Noções de criptografia**
