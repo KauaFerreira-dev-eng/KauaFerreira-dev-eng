@@ -76,9 +76,11 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento de software, b
 
 ### Estatísticas do GitHub
 
+### 🐱 Um gatinho passando por aqui...
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=KauaFerreira-dev-eng&hide_border=true&background=6A0DAD&ring=EDE7F6&fire=EDE7F6&currStreakLabel=EDE7F6&currStreakNum=F5F1E8&sideStreakLabel=EDE7F6&sideStreakNum=F5F1E8&dates=EDE7F6&stroke=EDE7F6" />
+<img src="./gato_aparecendo.gif" width="300">
 
 </div>
 
