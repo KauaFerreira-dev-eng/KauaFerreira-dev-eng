@@ -7,7 +7,7 @@ Campina Grande – PB, Brasil
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=EDE7F6&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Software+%7C+Front-end+%26+Back-end;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+C%2B%2B+%C2%B7+Python;Construindo+sites+responsivos+e+apps+mobile;Embaixador+Estudantil+Google+2026" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Software+%7C+Front-end+%26+Back-end;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+C%2B%2B+%C2%B7+Python;Construindo+sites+responsivos+e+apps+mobile;Embaixador+Estudantil+Google+2026" />
 
 <br><br>
 
