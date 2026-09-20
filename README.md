@@ -59,10 +59,9 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento de software, b
 
 ---
 
-### DestaqueDestaques
+### Relevâncias
 
 - **Programação Orientada a Objetos (POO)**
-- **Noções de criptografia**
 - **Desenvolvimento Web**
 - **Desenvolvimento Mobile**
 - **Responsabilidade digital**
