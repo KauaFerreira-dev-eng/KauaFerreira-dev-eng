@@ -2,7 +2,7 @@
 
 # Kauã Ferreira
 
-**Aspiring Software Developer | Front-end & Back-end** 
+**Aspiring Software Developer | Front-end & Back-end** | 
 Campina Grande – PB, Brasil
 
 <br>
