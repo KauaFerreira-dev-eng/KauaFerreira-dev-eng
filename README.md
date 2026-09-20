@@ -86,5 +86,6 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento de software, b
 </div>
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A148C&height=100&section=footer" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,200:4A148C&height=100&section=footer" />
+</div>
