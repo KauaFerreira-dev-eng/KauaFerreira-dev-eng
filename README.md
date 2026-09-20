@@ -1,13 +1,5 @@
-[README (2).md](https://github.com/user-attachments/files/32439805/README.2.md)
-## Hi there 👋
-
-<!--
-**KauaFerreira-dev-eng/KauaFerreira-dev-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<div align="center">
+[README (2).md](https://github.com/user-attachments/files/32439821/README.2.md)
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E3A8A&height=220&section=header&text=Kauã%20Ferreira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Front-end%20%26%20Back-end&descAlignY=55&descAlign=50" />
 
@@ -99,11 +91,3 @@ Já desenvolvi projetos com **MIT App Inventor**, aplicando lógica de programa�
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0A192F&height=100&section=footer" />
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
