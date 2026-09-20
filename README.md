@@ -40,7 +40,6 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento de software, b
 
 ---
 
----
 
 ###  Ferramentas e Tecnologia 
 
@@ -69,22 +68,8 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento de software, b
 - **Semana Carreira Tech — FIAP + Alura**
 - **Crie um site com HTML, CSS e JavaScript**
 - **Medalha de Prata — Olimpíada Internacional de Matemática e Conhecimento**
-
-
-
 ---
 
-### Estatísticas do GitHub
-
-### 🐱 Um gatinho passando por aqui...
-
-<div align="center">
-
-<img src="./gato_aparecendo.gif" width="300">
-
-</div>
-
----
 
 <div align="center">
 
