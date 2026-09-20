@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Kauã Ferreira
@@ -70,6 +71,9 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento de software, b
 - **Medalha de Prata — Olimpíada Internacional de Matemática e Conhecimento**
 ---
 
+<div align="center">
+<img width="150" height="150" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/d56657c0-836a-468f-a9dc-f4cf46b69539" />
+</div>
 
 <div align="center">
 
